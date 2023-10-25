@@ -1,6 +1,3 @@
-/* AD9912.h -  SPI interface library for Analog Devices AD9912 DDS Chip
-   Written by Chiranth Siddappa
-*/
 
 #ifndef AD9912_h
 #define AD9912_h
